@@ -1,0 +1,197 @@
+{
+  "precision_at_3": 0.9,
+  "hits": 9,
+  "total": 10,
+  "results": [
+    {
+      "id": "q01",
+      "question": "What is the notice period for termination in the NDA with Vendor A?",
+      "hit": false,
+      "sources": [
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "question": "Who are the parties to the NDA with Vendor A?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 2
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "question": "What is the definition of confidential information in the NDA?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "question": "What is the governing law clause in the NDA with Vendor A?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 2
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "question": "What are the payment terms in the Service Agreement with Vendor B?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "NDA_Vendor_A.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "question": "What is the limitation of liability in the Service Agreement?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "question": "What are the termination conditions in the Service Agreement with Vendor B?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "question": "What is the data retention schedule in the privacy policy?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "question": "What security measures are required under the data privacy policy?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "What is the breach notification timeline in the privacy policy?",
+      "hit": true,
+      "sources": [
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Policy_Document_C.pdf",
+          "page": 1
+        },
+        {
+          "document": "Service_Agreement_B.pdf",
+          "page": 1
+        }
+      ]
+    }
+  ]
+}
